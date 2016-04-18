@@ -1,5 +1,5 @@
 #Tightrope
-
+The social photo sharing app with a twist. If you don't post atleast once a day your account, comments and photos will be deleted. Don't go slack! 
 
 ##Stack
 
